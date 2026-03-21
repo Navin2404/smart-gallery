@@ -8,13 +8,13 @@
 
   // let imgs = import.meta.glob("./assets/pics/*.jpg");
   let imgs = [
-    "jean-beller-BPk54EnPmgY-unsplash.jpg",
-    "lien-van-win-bjjoRIaeHvA-unsplash.jpg",
-    "lien-van-win-H6LFgtj7fXY-unsplash.jpg",
-    "maciek-sulkowski-W4PgnlbD8aI-unsplash.jpg",
-    "marek-piwnicki-ZBvUxUvWwFw-unsplash.jpg",
-    "max-harlynking-JdQjLfOslLI-unsplash.jpg",
-    "s-tsuchiya-2UpH_leC9vc-unsplash.jpg",
+    "whitecar.jpg",
+    "greeny.jpg",
+    "couples.jpg",
+    "wallp.jpg",
+    "greeny-illus.png",
+    "me-pri.png",
+    "red-flower.png",
     "brent-pace-Fv7ASdsihlo-unsplash.jpg",
     "falaq-lazuardi-EY7D79nsPiY-unsplash.jpg",
   ];
