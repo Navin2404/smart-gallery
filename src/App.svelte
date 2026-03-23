@@ -15,8 +15,9 @@
     "greeny-illus.png",
     "me-pri.png",
     "red-flower.png",
-    "brent-pace-Fv7ASdsihlo-unsplash.jpg",
-    "falaq-lazuardi-EY7D79nsPiY-unsplash.jpg",
+    "itachi.jpeg",
+    "madara.jpeg"
+    
   ];
   imgs = imgs.map(s => "/imgs/" + s);
 
